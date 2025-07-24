@@ -62,7 +62,7 @@ This project analyzes the IBM HR Analytics Employee Attrition & Performance data
 
 ## 📂 How to Use
 
-1. Download the file: `HR_Analytics_Dashboard.xlsx`
+1. Download the file: `[HR_Analytics_Dashboard.xlsx](https://github.com/Krithik2602/HR-Analytics-Dashboard/blob/main/HR%20Employee%20Attrition%20%26%20Performance.xlsx)`
 2. Open in Excel (enable content if prompted)
 3. Use slicers to filter the dashboard interactively
 4. Explore trends and patterns visually
